@@ -15,7 +15,7 @@ Period: Mar - Apr 2025
 - Data Cleaning & Processing: Handled real-world datasets—importing, filtering, and transforming data.
 - Exploratory Data Analysis (EDA): Created pivot tables, summary stats, and basic plots to uncover insights.
 
-#### 🧩 Final Project
+#### 🧩 [Final Project](https://github.com/francheska123/python-brainstation-certificate/blob/francheska123-patch-1/%5BPython%5D%20L5%20M1%20Python%20Project%20Sprint%20-%20Part2.ipynb)
 Analyzed e-commerce customer behavior using Python to uncover trends in product performance, purchase frequency, and review sentiment—laying the groundwork for predictive recommendations.
 
 <div>
